@@ -1,119 +1,107 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2C+I'm+Shivashankar+B.+N.;Data+Scientist+%7C+ML+Engineer;Power+BI+%7C+Tableau+%7C+Python;Building+insightful+digital+solutions..." alt="Typing SVG" />
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivashankar-b-n&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
 
-<h1 align="center">🚀 Shivashankar B. N.</h1>
+<a href="https://github.com/shivashankar-b-n">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Shivashankar+B.+N.+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning+%7C+Analytics;Turning+data+into+useful+insights+and+products;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Animated introduction" />
+</a>
 
-<p align="center">
-  <strong>Data Science • Machine Learning • Business Intelligence • Full-Stack</strong>
-</p>
+<br />
 
-<p align="center">
-  I turn raw data into meaningful insights, predictive models, and data-driven applications.
-  <br>
-  I enjoy working on analytics, automation, and intelligent systems that solve real-world problems.
-</p>
+<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Intelligence-0b1020?style=for-the-badge&labelColor=111827" alt="Focus: data and intelligence" />
+<img src="https://komarev.com/ghpvc/?username=shivashankar-b-n&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/ML-ScikitLearn-FF6F00?style=for-the-badge" alt="Machine Learning" />
-  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-shivashankar--b--n-181717?style=for-the-badge&logo=github)](https://github.com/shivashankar-b-n)
+
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-- Passionate about Data Science, Machine Learning, and AI-powered decision-making.
-- Interested in building intelligent dashboards, predictive systems, and smart business solutions.
-- Experienced with Python, SQL, Power BI, Tableau, React, and APIs.
-- Strong focus on creating data-driven products with business impact.
+I enjoy using data and technology to understand problems and build practical solutions. My work spans data analysis, machine learning, business intelligence, and web applications—from exploring patterns in real-world datasets to creating dashboards and intelligent civic tools.
 
----
-
-## 🔥 Featured Projects
-
-### 1) Bengaluru Food Chain Sales Intelligence
-A full-stack sales intelligence and analytics dashboard for Bengaluru food chain data using React, FastAPI, and Python.
-
-- Live analytics and business insights
-- Dashboard-driven sales monitoring
-- Modern web + backend architecture
-
-[🔗 Repository](https://github.com/shivashankar-b-n/bengaluru-food-chain-sales-intelligence)
-
-### 2) Smart City by CIVIC
-AI-powered civic intelligence platform for reporting, analyzing, routing, tracking, and verifying urban issues.
-
-- GIS and civic issue intelligence
-- Urban analytics and hotspot detection
-- Smart city data-driven solution
-
-[🔗 Repository](https://github.com/shivashankar-b-n/Smart-City-by-Civic)
-
-### 3) Crime Pattern Analysis and Prediction
-Machine learning project focused on crime pattern analysis and prediction using location, time, and crime category data.
-
-- Exploratory Data Analysis
-- Statistical testing
-- Classification-based prediction
-
-[🔗 Repository](https://github.com/shivashankar-b-n/Crime-Pattern-Analysis-and-Prediction-Based-on-Location-Time-and-Crime-Type)
-
-### 4) Titanic Survival Prediction
-Predicting survival outcomes using ML techniques and data exploration.
-
-[🔗 Repository](https://github.com/shivashankar-b-n/Titanic-Survival-Prediction)
+- 📊 Interested in data science, analytics, and clear data storytelling
+- 🤖 Exploring machine learning and predictive modeling
+- 🛠️ Building with Python and modern web technologies
+- 🌱 Always learning and improving through hands-on projects
 
 ---
 
-## 🧠 Core Skills
+## ✨ Featured Work
 
-- Python
-- Data Analysis & EDA
-- Machine Learning
-- Deep Learning basics
-- SQL & Data Modeling
-- Power BI & Tableau
-- React.js
-- FastAPI
-- Data storytelling
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🍽️ Bengaluru Food Chain Sales Intelligence</h3>
+      <p>Full-stack sales intelligence and analytics dashboard for Bengaluru food-chain data.</p>
+      <p><strong>Stack:</strong> React · FastAPI · Python</p>
+      <a href="https://github.com/shivashankar-b-n/bengaluru-food-chain-sales-intelligence">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🏙️ Smart City by CIVIC</h3>
+      <p>AI-powered civic intelligence platform for reporting, routing, tracking, and analyzing urban issues, with GIS and city-level insights.</p>
+      <a href="https://github.com/shivashankar-b-n/Smart-City-by-Civic">Explore repository →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗺️ Crime Pattern Analysis & Prediction</h3>
+      <p>Analyzes crime patterns by location, time, and category using exploratory analysis, statistical testing, and classification models.</p>
+      <a href="https://github.com/shivashankar-b-n/Crime-Pattern-Analysis-and-Prediction-Based-on-Location-Time-and-Crime-Type">Explore repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 Titanic Survival Prediction</h3>
+      <p>A machine-learning project exploring passenger data and predicting survival outcomes.</p>
+      <a href="https://github.com/shivashankar-b-n/Titanic-Survival-Prediction">Explore repository →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 📊 GitHub Stats
+## 🧰 Tools & Technologies
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivashankar-b-n&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashankar-b-n&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+**Areas I work on:** exploratory data analysis · machine learning · dashboards · data visualization · API-backed applications
+
+---
+
+## 📈 GitHub Dashboard
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivashankar-b-n&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivashankar-b-n&layout=compact&hide_border=true&bg_color=0d1117&title_color=36BCF7&text_color=c9d1d9" alt="Most used languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivashankar-b-n&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=shivashankar-b-n&theme=github-dark-blue&hide_border=true&background=0D1117&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub contribution streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivashankar-b-n&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Find Me on GitHub
 
-<p align="center">
-  <a href="https://github.com/shivashankar-b-n" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="mailto:shivashankarbn@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <em>“Turning data into insights and ideas into impact.”</em>
-</p>
+[![GitHub profile](https://img.shields.io/badge/Visit%20my%20GitHub%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivashankar-b-n)
+
+<sub>Thanks for stopping by — feel free to explore my repositories!</sub>
+
+</div>
