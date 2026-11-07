@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://github.com/shivashankar-b-n">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=25&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=850&lines=Hey%2C+I'm+Shivashankar+B.+N.+%F0%9F%91%8B;Data+Science+%7C+Machine+Learning+%7C+Analytics;Turning+data+into+useful+insights+and+products;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=SHIVASHANKAR+B.+N.;DATA+SCIENCE+%7C+AI+%7C+ANALYTICS;BUILDING+INSIGHTS+THAT+MOVE+BUSINESS" alt="Animated introduction" />
 </a>
 
 <br />
 
-<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Intelligence-0b1020?style=for-the-badge&labelColor=111827" alt="Focus: data and intelligence" />
+<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Intelligence-0b1020?style=for-the-badge&labelColor=111827" alt="Focus" />
 <img src="https://komarev.com/ghpvc/?username=shivashankar-b-n&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
 
 <br /><br />
@@ -21,10 +21,10 @@
 
 I enjoy using data and technology to understand problems and build practical solutions. My work spans data analysis, machine learning, business intelligence, and web applications—from exploring patterns in real-world datasets to creating dashboards and intelligent civic tools.
 
-- 📊 Interested in data science, analytics, and clear data storytelling
-- 🤖 Exploring machine learning and predictive modeling
-- 🛠️ Building with Python and modern web technologies
-- 🌱 Always learning and improving through hands-on projects
+- 📊 Data science, analytics, and storytelling
+- 🤖 Machine learning and predictive systems
+- 🛠️ Python, dashboards, and data products
+- 🌱 Constantly learning and improving
 
 ---
 
