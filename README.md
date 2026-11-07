@@ -1,17 +1,13 @@
 <div align="center">
 
-<a href="https://github.com/shivashankar-b-n">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=30&duration=2800&pause=800&color=36BCF7&center=true&vCenter=true&width=900&lines=SHIVASHANKAR+B.+N.;DATA+SCIENCE+%7C+AI+%7C+ANALYTICS;BUILDING+INSIGHTS+THAT+MOVE+BUSINESS" alt="Animated introduction" />
-</a>
+<img src="https://raw.githubusercontent.com/shivashankar-b-n/shivashankar-b-n/main/assets/profile-hero.svg" alt="Futuristic glass-style data science banner featuring a 3D AI cube and the name Shivashankar B. N." width="100%" />
+
+<a href="https://github.com/shivashankar-b-n"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2600&pause=700&color=69DDF5&center=true&vCenter=true&width=760&lines=DATA+SCIENCE+%E2%80%A2+MACHINE+LEARNING+%E2%80%A2+ANALYTICS;Turning+data+into+useful+insights+and+products;Building+%E2%80%A2+Learning+%E2%80%A2+Improving" alt="Animated data science tagline" /></a>
 
 <br />
 
-<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Intelligence-0b1020?style=for-the-badge&labelColor=111827" alt="Focus" />
+<img src="https://img.shields.io/badge/FOCUS-Data%20%26%20Intelligence-0b1020?style=for-the-badge&labelColor=111827" alt="Focus: data and intelligence" />
 <img src="https://komarev.com/ghpvc/?username=shivashankar-b-n&style=for-the-badge&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views" />
-
-<br /><br />
-
-[![GitHub](https://img.shields.io/badge/GitHub-shivashankar--b--n-181717?style=for-the-badge&logo=github)](https://github.com/shivashankar-b-n)
 
 </div>
 
@@ -21,14 +17,14 @@
 
 I enjoy using data and technology to understand problems and build practical solutions. My work spans data analysis, machine learning, business intelligence, and web applications—from exploring patterns in real-world datasets to creating dashboards and intelligent civic tools.
 
-- 📊 Data science, analytics, and storytelling
-- 🤖 Machine learning and predictive systems
-- 🛠️ Python, dashboards, and data products
-- 🌱 Constantly learning and improving
+- 📊 Data science, analytics, and data storytelling
+- 🤖 Machine learning and predictive modeling
+- 🛠️ Python, dashboards, and data-driven applications
+- 🌱 Learning through hands-on projects and collaboration
 
 ---
 
-## ✨ Featured Work
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -36,31 +32,31 @@ I enjoy using data and technology to understand problems and build practical sol
       <h3>🍽️ Bengaluru Food Chain Sales Intelligence</h3>
       <p>Full-stack sales intelligence and analytics dashboard for Bengaluru food-chain data.</p>
       <p><strong>Stack:</strong> React · FastAPI · Python</p>
-      <a href="https://github.com/shivashankar-b-n/bengaluru-food-chain-sales-intelligence">Explore repository →</a>
+      <a href="https://github.com/shivashankar-b-n/bengaluru-food-chain-sales-intelligence">Explore project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🏙️ Smart City by CIVIC</h3>
-      <p>AI-powered civic intelligence platform for reporting, routing, tracking, and analyzing urban issues, with GIS and city-level insights.</p>
-      <a href="https://github.com/shivashankar-b-n/Smart-City-by-Civic">Explore repository →</a>
+      <p>AI-powered civic intelligence for reporting, routing, tracking, and analyzing urban issues, with GIS and city-level insights.</p>
+      <a href="https://github.com/shivashankar-b-n/Smart-City-by-Civic">Explore project →</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🗺️ Crime Pattern Analysis & Prediction</h3>
-      <p>Analyzes crime patterns by location, time, and category using exploratory analysis, statistical testing, and classification models.</p>
-      <a href="https://github.com/shivashankar-b-n/Crime-Pattern-Analysis-and-Prediction-Based-on-Location-Time-and-Crime-Type">Explore repository →</a>
+      <p>Explores crime patterns across location, time, and categories with statistical analysis and classification models.</p>
+      <a href="https://github.com/shivashankar-b-n/Crime-Pattern-Analysis-and-Prediction-Based-on-Location-Time-and-Crime-Type">Explore project →</a>
     </td>
     <td width="50%" valign="top">
       <h3>🚢 Titanic Survival Prediction</h3>
       <p>A machine-learning project exploring passenger data and predicting survival outcomes.</p>
-      <a href="https://github.com/shivashankar-b-n/Titanic-Survival-Prediction">Explore repository →</a>
+      <a href="https://github.com/shivashankar-b-n/Titanic-Survival-Prediction">Explore project →</a>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 Tech Stack
 
 <div align="center">
 
@@ -75,11 +71,11 @@ I enjoy using data and technology to understand problems and build practical sol
 
 </div>
 
-**Areas I work on:** exploratory data analysis · machine learning · dashboards · data visualization · API-backed applications
+**Focus areas:** exploratory data analysis · machine learning · dashboards · data visualization · API-powered applications
 
 ---
 
-## 📈 GitHub Dashboard
+## 📊 GitHub Dashboard
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=shivashankar-b-n&show_icons=true&hide_border=true&bg_color=0d1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9" alt="GitHub profile statistics" />
@@ -91,17 +87,17 @@ I enjoy using data and technology to understand problems and build practical sol
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivashankar-b-n&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivashankar-b-n&bg_color=0d1117&color=c9d1d9&line=36BCF7&point=ffffff&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
 
 ---
 
-## 🤝 Find Me on GitHub
-
 <div align="center">
 
-[![GitHub profile](https://img.shields.io/badge/Visit%20my%20GitHub%20profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivashankar-b-n)
+### Thanks for visiting my profile 👋
 
-<sub>Thanks for stopping by — feel free to explore my repositories!</sub>
+[![Explore my repositories](https://img.shields.io/badge/Explore%20my%20repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shivashankar-b-n?tab=repositories)
+
+<sub>Turning curiosity into insights, and insights into impact.</sub>
 
 </div>
